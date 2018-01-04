@@ -4,3 +4,4 @@ For the bag of words technique we dont need any algorithm or training data, we d
 I refered a lexicon from oxford dictionary to findout which are positive and negative words.
 Used a dataset of 2000 movie reviews which contains 1000 positive and 1000 negative reviews.
 trained the naive bayesian with 1500 randomly choosen reviews.
+The performance achieved is real bad, we need to perform analysis with bigger datasets so that we can achieve better performance.
